@@ -5,6 +5,8 @@ An Augmented Reality project by Pragya Madaan
 - placing the avatar in real world through Instagram filters using SparkAR
 
 
+--------------------------------------------------------------------------------------------------------------------------------
+
 This file contains the instructions for running the code in the following parts:
 
 I) DEPTH MAP GENERATION
