@@ -1,3 +1,10 @@
+An Augmented Reality project by Pragya Madaan 
+- using PiFuHD to generate 3D models from low-resolution 2D images (with different background, lighting and views)
+- visualizing depth maps for 2D images and the generated 3D models,
+- generating 3D avatar in Blender for one of the selected 3D models 
+- placing the avatar in real world through Instagram filters using SparkAR
+
+
 This file contains the instructions for running the code in the following parts:
 
 I) DEPTH MAP GENERATION
@@ -20,8 +27,5 @@ While Stylize-me has used its generated .obj files within Blender for Avatar cre
 
 
  
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------
-Please Note: The previously added input 2D images for "Stylize-me project", their generated .txt files and their respective outputs are already cleaned from the folder as per instructions. However, my own generated PiFuHD Google Drive folder couldn't be uploaded to Blackboard as its size was more than 1GB. Hence, I have added commands in PiFuHD mesh generation .ipynb notebook to clone PiFuHD and pose estimation repository at your end. In case of any queries, please feel free to confirm.
+Please Note: The previously added input 2D images for "Stylize-me project", their generated .txt files and their respective outputs are already cleaned from the folder. Moreover, I have added commands in PiFuHD mesh generation .ipynb notebook to clone PiFuHD and pose estimation repository at your end. In case of any queries, please feel free to reach out.
